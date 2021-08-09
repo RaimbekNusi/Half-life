@@ -1,4 +1,3 @@
-"Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long"
 import math as math
 m = int(input("Enter the initial mass of the material: "))
 while m <= 0:
