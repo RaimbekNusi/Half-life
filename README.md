@@ -15,5 +15,11 @@ To write a program which does the following:
 - Starting from day 0, output the amount of the material remaining at one-day intervals. Thus, for day 0, day 1, day 2, etc., you should print out the amount of remaining mass according to the above formula. Your program should stop on the first day on which remaining mass is less than 1% of the initial mass.
 
 ![image](https://user-images.githubusercontent.com/86201781/128747135-a9218167-ed7a-4914-87bf-2e99428c1d2f.png)
-![image](https://user-images.githubusercontent.com/86201781/128747178-cd4fb048-90d5-46f9-a08b-90847d073bce.png)
 
+## How to use
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Projec_half_life.py;
+- The program will open a command console which will ask you to input the initial mass of the material and then its half life.
