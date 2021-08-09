@@ -7,3 +7,13 @@ The rate of radioactive decay of a material is measured in terms of its half-lif
 
 ![image](https://user-images.githubusercontent.com/86201781/128746882-d53d5c1e-c893-493b-b4ff-fb146cea3aa0.png)
 
+## Problem description
+
+To write a program which does the following:
+- Prompt the user to enter the initial mass of the material (in grams). You must make sure that the user enters a positive number. If they do not enter a positive number, print a message informing them so, and prompt them to enter the initial amount of material again. Keep doing this until they enter a positive number.
+- Prompt the user to enter the half-life of the material (in days). As above, make sure that the user enters a positive number, and if they don’t, keep asking until they do.
+- Starting from day 0, output the amount of the material remaining at one-day intervals. Thus, for day 0, day 1, day 2, etc., you should print out the amount of remaining mass according to the above formula. Your program should stop on the first day on which remaining mass is less than 1% of the initial mass.
+
+![image](https://user-images.githubusercontent.com/86201781/128747135-a9218167-ed7a-4914-87bf-2e99428c1d2f.png)
+![image](https://user-images.githubusercontent.com/86201781/128747178-cd4fb048-90d5-46f9-a08b-90847d073bce.png)
+
